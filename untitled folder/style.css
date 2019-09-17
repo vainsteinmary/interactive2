@@ -1,0 +1,24 @@
+/* this defines the helper grid */
+.gridlines {
+  /* change these as you need */
+  --grid-size:5px;
+  --grid-color:grey;
+}
+
+/* anything else you want to do 👇🏻 */
+
+h1 {
+  color: white;
+}
+
+h3 {
+  padding: 15px;
+  color: lightgrey
+}
+
+p {
+  padding: 40px;
+  font-size: 8pt;
+  color: white;
+  font-family: monospace;
+}
