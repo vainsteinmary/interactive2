@@ -1,0 +1,43 @@
+* {
+	padding: 0px;
+	margin: 0;
+	background: black;
+}
+
+body {
+	
+}
+
+/* this is a comment */
+
+h3 {
+	color: red;
+	margin: 100px;
+}
+
+p {
+	margin: 100px;
+	width: 560px;
+	color: black;
+
+}
+
+p:hover {
+	color: white;
+}
+
+img{
+	opacity:0;
+}
+
+img:hover{
+	opacity: 100;
+}
+
+a {
+	
+}
+
+a:hover {
+	
+}
