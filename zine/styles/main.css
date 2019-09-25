@@ -4,26 +4,47 @@
 	background: black;
 }
 
-body {
-	
-}
-
-/* this is a comment */
-
 h3 {
 	color: red;
-	margin: 100px;
+	margin-left: 550px;
+	margin-top: 100px;
+	width: 300px;
 }
 
 p {
-	margin: 100px;
-	width: 560px;
-	color: black;
-
+	margin-left: 550px;
+	width: 300px;
+	color: white;
 }
 
-p:hover {
-	color: white;
+#eye img{
+	margin-left: 475px;
+	position: absolute;
+	opacity: 100;
+}
+
+#mess {
+	margin-left: 625px;
+    margin-right: auto;
+	text-align: center;
+	display: inline-block;
+	position: relative;
+	size: 20px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: none;
 }
 
 img{
@@ -32,12 +53,4 @@ img{
 
 img:hover{
 	opacity: 100;
-}
-
-a {
-	
-}
-
-a:hover {
-	
 }
