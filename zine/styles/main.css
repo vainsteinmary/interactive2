@@ -6,34 +6,40 @@
 
 h3 {
 	color: red;
-	margin-left: 500px;
-	margin-top: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 340px;
 	width: 300px;
 	line-height: 30px;
+	font-family: 'Finger Paint', cursive;
 }
 
 p {
-	margin-left: 500px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 300px;
 	width: 300px;
 	color: white;
-	line-height: 30px;
+	line-height: 20px;
+	font-family: 'Lacquer', sans-serif;
 }
 
 #eye img{
-	margin-left: 435px;
+	margin-left: 455px;
+	margin-right: auto;
 	margin-top: 300px;
 	position: absolute;
 	opacity: 100;
 }
 
 #mess {
-	margin-left: 625px;
+	margin-left: 615px;
     margin-right: auto;
+    margin-top: 0;
 	text-align: center;
 	display: inline-block;
 	position: relative;
-	size: 20px;
+	font-family: 'Finger Paint', cursive;
 }
 
 a:link {
@@ -53,6 +59,7 @@ a:hover {
 
 img{
 	opacity:0;
+	margin-top: 0px;
 }
 
 img:hover{
