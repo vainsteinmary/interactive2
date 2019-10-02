@@ -8,10 +8,10 @@ h3 {
 	color: red;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 340px;
+	margin-top: 275px;
 	width: 300px;
 	line-height: 30px;
-	font-family: 'Finger Paint', cursive;
+	font-family: 'Lacquer', sans-serif;
 }
 
 p {
@@ -39,7 +39,7 @@ p {
 	text-align: center;
 	display: inline-block;
 	position: relative;
-	font-family: 'Finger Paint', cursive;
+	font-family: 'Lacquer', sans-serif;
 }
 
 a:link {
