@@ -1,0 +1,14 @@
+* {
+	padding: 0px;
+	margin: 0px;
+}
+
+p{
+	font-size: 80pt;
+	color: black;
+}
+
+p:active{
+	color: red;
+}
+
