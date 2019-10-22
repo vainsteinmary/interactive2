@@ -1,14 +1,16 @@
 * {
-	padding: 0px;
-	margin: 0px;
+	padding: 50px;
+	margin: 50px;
 }
 
 p{
+	margin: 50px;
 	font-size: 80pt;
 	color: black;
 }
 
 p:active{
 	color: red;
+	transform: rotate(360deg);
 }
 
