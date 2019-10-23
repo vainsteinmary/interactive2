@@ -1,16 +1,35 @@
 * {
-	padding: 50px;
-	margin: 50px;
+	padding: 0px;
+	background: salmon;
 }
 
 p{
-	margin: 50px;
-	font-size: 80pt;
+	margin-left: 400px;
+	font-size: 75pt;
 	color: black;
 }
 
-p:active{
-	color: red;
-	transform: rotate(360deg);
+#t:active {
+	font-size: 100pt;
+	margin-left: 1100px;
+	color: white;
 }
 
+#y:active {
+	margin-left: 1100px;
+	color: skyblue;
+	transform: skew(60deg);
+	font-size: 120pt;
+}
+
+#p:active {
+	margin-left: 1100px;
+	color: green;
+	transform: rotate(90deg);
+}
+
+#e:active{
+	margin-left: 1100px;
+	color: yellow;
+	text-decoration: overline;
+}
