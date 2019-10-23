@@ -10,7 +10,6 @@ p{
 }
 
 #t:active {
-	font-size: 100pt;
 	margin-left: 1100px;
 	color: white;
 }
@@ -19,7 +18,6 @@ p{
 	margin-left: 1100px;
 	color: skyblue;
 	transform: skew(60deg);
-	font-size: 120pt;
 }
 
 #p:active {
