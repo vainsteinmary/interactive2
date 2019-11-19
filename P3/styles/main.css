@@ -1,0 +1,32 @@
+* {
+	padding: 0px;
+	background: black;
+}
+
+li{
+	font-size: 10pt;
+	font-family: Helvetica, Times;
+	color: white;
+	display: block;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	text-align: center;
+}
+body, html {
+	overflow-y: hidden;
+}
+.minter{
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+a{
+	color: white;
+	text-decoration: none;	
+}
+a:visited {
+	color: white;
+	text-decoration: none;	
+}
