@@ -2,25 +2,18 @@
 	padding: 0px;
 	background: black;
 }
-
-li{
-	font-size: 10pt;
-	font-family: Helvetica, Times;
-	color: white;
-	display: block;
-	margin-left: auto;
- 	margin-right: auto;
- 	text-align: center;
-}
 body, html {
 	overflow-y: hidden;
 }
-.minter{
-  display: block;
-  margin-top: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 20%;
+li{
+	font-size: 12pt;
+	font-family: Helvetica, Times;
+	color: white;
+	display: block;
+	line-height: 1.8;
+	margin-left: auto;
+ 	margin-right: auto;
+ 	text-align: center;
 }
 a{
 	color: white;
@@ -29,4 +22,47 @@ a{
 a:visited {
 	color: white;
 	text-decoration: none;	
+}
+.minter{
+  	display: block;
+  	margin-top: 50px;
+  	margin-left: auto;
+  	margin-right: auto;
+  	text-align:center;
+  	width: 20%;
+}
+.title{
+	margin-top: 200px;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	text-align:center;
+  	width: 80%;
+  	padding-bottom: 20px;
+}
+.imgbox{
+	margin-top: 60px;
+    margin-left: auto;
+  	margin-right: auto;
+  	text-align:center;
+}
+.textbox {
+	position: absolute;
+	font-family: helvetica, Times;
+	font-size: 12pt;
+	background: black;
+	color: white;
+	padding-left: 50px;
+	line-height: 1.8;
+    width: 300px;
+    height: 210px;
+    top: 45vh;
+    left: 45vw;
+}
+footer p{
+	padding-top: 25px;
+	color: grey;
+	font-size:40px;
+	text-align: center;
+	font-family: helvetica, Times;
 }
