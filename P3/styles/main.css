@@ -59,10 +59,12 @@ a:visited {
     top: 45vh;
     left: 45vw;
 }
+
+
 footer p{
-	padding-top: 25px;
+	position: relative;
 	color: grey;
-	font-size:40px;
+	font-size:30px;
 	text-align: center;
 	font-family: helvetica, Times;
 }
